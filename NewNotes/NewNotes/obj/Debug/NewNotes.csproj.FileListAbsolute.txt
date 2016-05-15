@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\bin\Debug\NewNotes.exe.config
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\bin\Debug\NewNotes.exe
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\bin\Debug\NewNotes.pdb
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\bin\Debug\Npgsql.dll
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\bin\Debug\Mono.Security.dll
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.Form1.resources
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.Properties.Resources.resources
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.csproj.GenerateResource.Cache
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.exe
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба (добавить 100к записей)\NewNotes\NewNotes\obj\Debug\NewNotes.pdb
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба +\NewNotes\NewNotes\bin\Debug\NewNotes.exe.config
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба +\NewNotes\NewNotes\obj\Debug\NewNotes.exe
+C:\Users\Максим\Desktop\6 семестр\ТП\5 лаба +\NewNotes\NewNotes\obj\Debug\NewNotes.pdb
